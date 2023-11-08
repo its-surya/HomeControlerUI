@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Harsh Sir Relative Layout</string>
+    <string name="hi">Hi,Homie</string>
+    <string name="hello">Now you can control \n your home from anywhere</string>
+    <string name="living_room">Living Room</string>
+    <string name="all_rooms">All Rooms</string>
+</resources>
